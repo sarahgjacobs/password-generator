@@ -11,4 +11,4 @@ See the live website here: https://sarahgjacobs.github.io/portfolio/
 
 ## Usage
 
-![Screenshot of Password Generator](./friendly-parakeet/Develop/Screen%20Shot%202022-11-10%20at%205.22.05%20PM.png "Sarah Jacobs' Password Generator")
+![Screenshot of Password Generator](./Develop/Screen%20Shot%202022-11-10%20at%205.22.05%20PM.png "Sarah Jacobs' Password Generator")
