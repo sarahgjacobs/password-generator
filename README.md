@@ -7,7 +7,7 @@ Sarah learned how use random.math to randomize output, while also using a requir
 
 ## Installation
 
-See the live website here: https://sarahgjacobs.github.io/portfolio/
+See the live website here: https://sarahgjacobs.github.io/password-generator/
 
 ## Usage
 
